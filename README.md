@@ -16,4 +16,4 @@
 
 В свободное время предпочитаю хикковать или нырять в косметические магазины за новинками.
 
-[ec96afd8-07a3-4a38-a863-eda69def9c4d.pdf](https://github.com/Mistress0000FF/Mistress0000FF/files/11129079/ec96afd8-07a3-4a38-a863-eda69def9c4d.pdf)
+![ec96afd8-07a3-4a38-a863-eda69def9c4d](https://user-images.githubusercontent.com/128701170/229280194-500e920c-eb63-4406-a24a-a3464e4ffd9b.png)
