@@ -7,7 +7,7 @@
 - подготавливаю информацию для пользователей в MS Power Point.
 
 Как Дата аналитик:
-- составляю SQL запросы в БД через Redash (ClickHouse, postgreSQL) в т.ч. с использованием джоинов и подзапросов;
+- составляю SQL запросы в БД через Redash (ClickHouse, postgreSQL) в т.ч. с использованием агрегирующих функций, джоинов, подзапросов, CTE;
 - обрабатываю данные и провожу А/А, А/Б тесты в Python (Jupiter Notebook) с использованием библиотек pandas, numpy;
 - визуализирую данные через библиотеки python (seaborn, matplotlib.pyplot, plotly);
 - строю дашборды через Tableau, Power BI, redash.
