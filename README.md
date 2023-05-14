@@ -8,7 +8,7 @@
 
 Как Дата аналитик:
 - составляю SQL запросы в БД через Redash (ClickHouse, postgreSQL) в т.ч. с использованием агрегирующих функций, джоинов, подзапросов, CTE;
-- обрабатываю данные и провожу А/А, А/Б тесты в Python (Jupiter Notebook) с использованием библиотек pandas, numpy;
+- обрабатываю данные и провожу А/А, А/Б тесты в Python (Jupiter Notebook) с использованием библиотек pandas, numpy, scipy.stats;
 - визуализирую данные через библиотеки python (seaborn, matplotlib.pyplot, plotly);
 - строю дашборды через Tableau, Power BI, redash.
 
