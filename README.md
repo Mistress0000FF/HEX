@@ -7,7 +7,7 @@
 - собираю информацию в lakehouse из API сервисов с помощью Python (Я.Метрика, Roistat) и Power BI (DashaMail) для составления потоков данных в MS Fabric для дальнейшей загрузки в Data Mart;
 - обрабатываю данные и провожу А/А, А/Б тесты в Python (Jupiter Notebook) с использованием библиотек pandas, numpy, scipy.stats;
 - визуализирую данные через библиотеки Python (plotly.express, seaborn, matplotlib.pyplot);
-- составляю парсеры через библиотеки Python (selenium, BeautifulSoup, re );
+- составляю парсеры через библиотеки Python (selenium, BeautifulSoup, re, regex );
 - составляю SQL запросы в БД через Redash (ClickHouse, postgreSQL) в т.ч. с использованием агрегирующих функций, джоинов, подзапросов, CTE;
 - пишу структурированный код-ревью в текстовых блоках или через loom;
 - текущие задачи и полезные материалы фиксирую в Monday work management, Slack.
@@ -20,3 +20,4 @@
 В свободное время предпочитаю хикковать за видеоиграми (в т.ч. создание пользовательских модификаций) или нырять в косметические магазины за новинками.
 
 ![ec96afd8-07a3-4a38-a863-eda69def9c4d](https://user-images.githubusercontent.com/128701170/229280194-500e920c-eb63-4406-a24a-a3464e4ffd9b.png)
+![TC Sulkovskaya](https://github.com/Mistress0000FF/Mistress0000FF/assets/128701170/7146b249-d8ab-485e-acb7-6d0650887a96)
